@@ -1,5 +1,5 @@
                                                                                 #created by Suraj Rajesh Gupta
-                                                                                #github https://github.com/MaiHuJarvis
+                                                                                #github https://github.com/SurajGuptaRavi
                                                                                 #you can modify and use this scripts
                                                                                 #but dont forget to give credits
 
