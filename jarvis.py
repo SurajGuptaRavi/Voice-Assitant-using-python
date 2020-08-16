@@ -12,9 +12,9 @@ import datetime
 import base64
 def speak(audio):
     engine = pyttsx3.init()
-       
-    voice_id="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0"
-    engine.setProperty('voice', voice_id)
+    #use this only if you have this voice installed in your system  
+    #voice_id="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0"
+    #engine.setProperty('voice', voice_id)
     engine.say(audio)
     engine.runAndWait()
     
